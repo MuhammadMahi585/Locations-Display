@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorldBeauty</string>
+    <string name="burj_khalifa">Burj khalifa</string>
+    <string name="taj_mahal">Taj Mahal</string>
+    <string name="mount_everest">Mount Everest</string>
+    <string name="sea_view">Sea view</string>
+</resources>
